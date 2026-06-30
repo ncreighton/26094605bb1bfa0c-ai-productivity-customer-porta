@@ -1,2 +1,25 @@
-# 26094605bb1bfa0c-ai-productivity-customer-porta
-Stop starting from a blank document every single time. Start professional results from day one.  Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Ai Productivity Customer Portal — fully configured and ready to use - Fully editable: all fie
+# Ai Productivity Customer Portal WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ28r7r19Mw8FG47qcZD25)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ28r7r19Mw8FG47qcZD25)
+
